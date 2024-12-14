@@ -17,9 +17,10 @@
        
        *Les commandes qui échouent (erreurs SQL, etc.) sont enregistrées dans un fichier d'erreurs.
 	
-    Interface utilisateur : Permet de sélectionner les fichiers (entrée, sortie, erreurs) via un navigateur de fichiers.
+       *Interface utilisateur : Permet de sélectionner les fichiers (entrée, sortie, erreurs) via un navigateur de fichiers.
 
 **Prérequis**
+
 Java Development Kit (JDK) :  
 
 Version requise : 11 ou supérieure.  
