@@ -12,7 +12,7 @@
 -Les commandes qui échouent (erreurs SQL, etc.) sont enregistrées dans un fichier d'erreurs.
 Interface utilisateur : Permet de sélectionner les fichiers (entrée, sortie, erreurs) via un navigateur de fichiers.
 
-**Authentification **
+**Authentification**
 
 L'email administrateur par défaut est : **admin@gmail.com**
 Le mot de passe : **admin**
