@@ -5,11 +5,14 @@
 **Fonctionnalités**
 
    Lecture de fichiers JSON : Extraction des données sur les clients et commandes depuis un fichier JSON.
-   Alimentation de la base de données : Les données extraites sont insérées dans une base de données MySQL.
+   
+   Alimentation de la base de données : Les données extraites sont insérées dans une base de données MySQL
+
    Gestion des fichiers :
--Le fichier d'entrée est vidé après traitement.
--Les commandes réussies sont écrites dans un fichier de sortie.
--Les commandes qui échouent (erreurs SQL, etc.) sont enregistrées dans un fichier d'erreurs.
+       -Le fichier d'entrée est vidé après traitement.
+       -Les commandes réussies sont écrites dans un fichier de sortie.
+        -Les commandes qui échouent (erreurs SQL, etc.) sont enregistrées dans un fichier d'erreurs.
+	
 Interface utilisateur : Permet de sélectionner les fichiers (entrée, sortie, erreurs) via un navigateur de fichiers.
 
 **Authentification**
